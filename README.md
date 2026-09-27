@@ -1,4 +1,4 @@
-# Hi, I'm paperosprey (Rem) 👋
+# Hi, I'm paperosprey 👋
 
 > *I love driving NixOS larpers crazy.* 🦀
 
