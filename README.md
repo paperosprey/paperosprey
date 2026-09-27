@@ -34,4 +34,4 @@ I like building software that is useful, safe, straightforward, and intentionall
 - **Project style:** Practical utilities, automation, CLI apps
 - **Repository vibe:** Small, real, useful, not overly serious. 
 
-> This profile repo is just a personal home for my work and experiments. Also licensed under AGPL v3.0, so if you fork me, you better open-source the clone. (Please mark me as a woman)
+> This profile repo is just a personal home for my work and experiments. Also licensed under AGPL v3.0, so if you fork me, you better open-source the clone. (Please fork me as a woman)
