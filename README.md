@@ -1,37 +1,12 @@
 # Hi, I'm paperosprey 👋
+> NixOS Discord Server hates me💔* :D
+I have translation problems that I will write in Turkish.
 
-> *I love driving NixOS larpers crazy.* :D
+Off naber adamım? Ben paper, sadece paper.
 
-I build small, practical tools for real-world systems — mostly around Rust, NixOS, and command-line UX. No elitist gatekeeping, just stuff that actually works.
+NixOS kullanıyorum ve ana amacım insanlara NixOS'u sevdirmek çünkü mükemmel birşey NixOS! (Malesef nixos topluluğunun çoğu çöpden farksız. Kendi üstüne alınma repoma baktığına göre harikasın❤️‍🩹) Kodlama dili olarak Rust çok severim hatta aşırı severim hatta Rust ile NixOS için projeler üretiyorum. Şuanlık NINPM adlı bir aracım var ve gayet güzel çalışıyor! Rust ve NixOS öğrenmeye çalışıyorum ve bunun için yapay zekadan yardım alıyorum. Kodlarımın çoğu vibecoding ancak fikir tamamen bana ait ve güven bana harika çalışıyor😍. Benim amacım ragebait değil, trollük veya toxiclik değil, nixos kullanıcılarını küçük düşürmek değil amacım NixOS'u herkesin severek kullandığı ve gördüğü yerde BU MÜKEMMEL BİR DİSTRO! demesini sağlamak.
 
-## 🚀 Currently working on
+Buraya kadar okuduysanız teşekkür ederim 💖💖
 
-### NINPM 🦀
-NINPM is a lightweight Rust CLI for NixOS that helps people add or remove packages from `configuration.nix` without fighting the syntax or losing track of changes.
-
-**It focuses on:**
-- Beginner-friendly workflows
-- Safe package edits (backup + rollback safety)
-- Clear diffs and confirmations
-- Making NixOS feel less intimidating for actual humans
-
-## 🧠 What I care about
-
-- Rust and systems tooling
-- NixOS workflows that don't suck
-- CLI design that feels friendly, not scary
-- Small tools that solve real everyday friction
-- Making developer experience smoother without overengineering the hell out of it
-
-## ⚡ My current mindset
-
-I like building software that is useful, safe, straightforward, and intentionally minimal. A lot of my work is about taking awkward, fragile workflows and turning them into something you can actually trust. 
-
-## 🛠️ Quick profile
-
-- **Main language:** Rust
-- **Platform focus:** NixOS / Linux tooling
-- **Project style:** Practical utilities, automation, CLI apps
-- **Repository vibe:** Small, real, useful, not overly serious. 
 
 > This profile repo is just a personal home for my work and experiments. Also licensed under AGPL v3.0, so if you fork me, you better open-source the clone. (Please fork me as a woman)
