@@ -1,6 +1,6 @@
 # Hi, I'm paperosprey 👋
 
-> *I love driving NixOS larpers crazy.* 🦀
+> *I love driving NixOS larpers crazy.* :D
 
 I build small, practical tools for real-world systems — mostly around Rust, NixOS, and command-line UX. No elitist gatekeeping, just stuff that actually works.
 
